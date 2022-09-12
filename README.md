@@ -1,1 +1,1 @@
-# iciciCompositPay - API
+# ICICI Composite Pay API
